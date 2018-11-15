@@ -1,2 +1,2 @@
 # BoletinBucles
-todos los ejercicios boletin bucles
+todos los ejercicios del boletin bucles
